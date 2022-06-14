@@ -1,2 +1,6 @@
 # example-repository
-my first repository
+testing
+
+git checking
+
+checking again
